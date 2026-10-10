@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **This repo has moved.** The Spotify plugin now lives in [**NousResearch/hermes-pantheon**](https://github.com/NousResearch/hermes-pantheon/tree/main/spotify), the single home for Nous Research's official Hermes Agent plugins, with this repo's full history. Open issues and PRs were moved there. Catalog installs follow automatically on `hermes plugins update spotify`; if you installed by URL, run `hermes plugins install spotify --force` once.
+> **This repo has moved.** The Spotify plugin now lives in [**NousResearch/hermes-official-plugins**](https://github.com/NousResearch/hermes-official-plugins/tree/main/spotify), the single home for Nous Research's official Hermes Agent plugins, with this repo's full history. Open issues and PRs were moved there. Catalog installs follow automatically on `hermes plugins update spotify`; if you installed by URL, run `hermes plugins install spotify --force` once.
 
 # hermes-spotify
 
